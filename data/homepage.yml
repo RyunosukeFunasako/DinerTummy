@@ -23,7 +23,7 @@ about:
   enable : true
   image : "images/Diner-Tummy-logo.jpg"
   title : "Diner Tummy"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in </br>voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat Ut enim ad minim veniam"
+  description : "自家製ローストビーフとカレーのお店。イートイン・テイクアウトどちらも可能。是非お立ち寄りください。"
   
 ################# Blog ######################
 blog:
@@ -37,28 +37,28 @@ blog:
 pricing:
   enable : true
   title : "Our Easy <span>PRICE</span>"
-  description: " Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco"
+  description: "学生証を提示して頂くとご飯大盛り無料"
   subtitle : "FEATURED ON THE WEEK"
   pricing_item:
   - title: "ローストビーフ丼"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 125.00"
+    description: "[サイズ] 100g 650円, 150g 800円, 200g 1000円, 200g以上は50g増ごとに+200円   [トッピング] サワークリーム 100円, きざみわさび 100円, アボトマ 200円"
+    price : "650~1000円"
 
-  - title: "Caesar Salad"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 100.00"
+  - title: "おうちカレー"
+    description: "[サービス] 福神漬け無料"
+    price : "500円"
 
-  - title: "Steak with a Garlic and Parsley Risotto"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 20.00"
+  - title: "サラダラップ"
+    description: "プレーン 350円, 旨辛 380円"
+    price : "350~380円"
 
-  - title: "Meat of Skewers"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 45.00"
+  - title: "きまぐれカレー"
+    description: "期間限定&数量限定のカレー"
+    price : "700円"
 
-  - title: "Pancakes n' Such"
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim&&"
-    price : "$ 25.00"
+  - title: "ドリンク"
+    description: "セットドリンク 150円, 単品 200円"
+    price : "150~200円"
 
 ################### Subscription ################
 subscription:
