@@ -25,20 +25,12 @@ about:
   title : "Diner Tummy"
   description : "自家製ローストビーフとカレーのお店。イートイン・テイクアウトどちらも可能。是非お立ち寄りください。"
   
-################# Blog ######################
-blog:
-  enable : true
-  title : "Our Latest <span>Blog</span>"
-  bg_image : "images/blog/Outside.jpg"
-  overlay : true
-
-
 ################# food Menu ################
 pricing:
   enable : true
   title : "Our Easy <span>PRICE</span>"
   description: "学生証を提示して頂くとご飯大盛り無料"
-  subtitle : "FEATURED ON THE WEEK"
+  subtitle : "MENU"
   pricing_item:
   - title: "ローストビーフ丼"
     description: "[サイズ] 100g 650円, 150g 800円, 200g 1000円, 200g以上は50g増ごとに+200円   [トッピング] サワークリーム 100円, きざみわさび 100円, アボトマ 200円"
@@ -48,9 +40,9 @@ pricing:
     description: "[サービス] 福神漬け無料"
     price : "500円"
 
-  - title: "サラダラップ"
-    description: "プレーン 350円, 旨辛 380円"
-    price : "350~380円"
+  - title: "炙りチーズキーマカレー"
+    description: "以前気まぐれカレーで出したものを改良して通常メニューになりました！"
+    price : "700円"
 
   - title: "きまぐれカレー"
     description: "期間限定&数量限定のカレー"
@@ -58,22 +50,13 @@ pricing:
 
   - title: "ドリンク"
     description: "セットドリンク 150円, 単品 200円"
-    price : "150~200円"
+    price : "150 or 200円"
 
-################### Subscription ################
-subscription:
+################# Blog ######################
+blog:
   enable : true
-  bg_image : "images/IceCoffe.jpg"
-  title : "SUBSCRIBE to our <span>NEWSLETTER</span>"
-  description : "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod"
-  #Mailchimp subscription configaration 
-  form_action : "https://themefisher.us9.list-manage.com/subscribe/post?u=f95ece2732a6e9925f2e70a61&amp;id=b1e227529e"
-  formName : "b_f95ece2732a6e9925f2e70a61_b1e227529e"
+  title : "Our Latest <span>Blog</span>"
+  bg_image : "images/blog/Outside.jpg"
   overlay : true
 
-################ Contact #######################
-contact:
-  enable : true
-  title: "Let's <span> Contact Us </span>"
-  subtitle: "SIGN UP FOR EMAIL ALERTS"
-  form_action : "#" #contact form works with formspree.io
+
